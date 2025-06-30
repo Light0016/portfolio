@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "title": "A Search For Meaning | A Poem",
+    "description": "A poetic exploration of life's purpose, grappling with the pursuit of money, knowledge, and happiness.",
+    "date": "2019-02-20",
+    "pinned": true,
+    "content": "Scrutinized life,\nFound too short for living\nUrge filled within myself\nTo accomplish something\n\nAstounds me!\nWhat should i seek for?\nMaybe something that is eternal\nThat calms my raging soul\n\nMoney?\nSounds pleasant, but still volatile\nCan comfort you for a short time\nBut can't assure a blissful life\n\nKnowledge?\nNever limited to achieve\nYou learn something every interval\nTill the moment you leave\n\nHappiness?\nIs priceless, can't acquire so easily\nLife is uncertain\nChallenging you with misery\n\nStill mystique for me\nWhat should I seek for?\nBut at the moment\nIt's probably the ANSWER !\n\n-Raj Panta\n",
+    "image": "/search_for_meaning.png"
+  },
+  {
+    "id": 2,
+    "title": "My Favourite Chess Openings",
+    "description": "I, as an chess enthusiast particularly enjoy these openings because of their strategic depth and the balanced positions they create.",
+    "date": "2025-06-15",
+    "pinned": false,
+    "content": "1. d4 d5 2. Nf3 Nf6 3. Bf4 c6 4. e3 e6\nThe London System is one of my go-to openings as White. I like it because it offers a flexible and reliable setup, allowing me to develop my pieces naturally and build a solid pawn structure without memorizing long theoretical lines. It's forgiving and provides a good foundation for both aggressive and positional play. \n\nAs Black, the Caro-Kann Defense is my preferred response to 1. e4. I favor it for its resilient and sturdy defensive structure, which often leads to a stable pawn formation and excellent counter-attacking chances. It feels very solid and reliable, giving me confidence in my position. The early moves in this game showcase the strategic nuances and tactical possibilities arising from these two beloved openings, making for an engaging and balanced battle.",
+    "image": "/chess_opening.png"
+  },
+  {
+    "id": 3,
+    "title": "My Favorite TV Shows of All Time",
+    "description": "These are the shows that've kept me glued to the screen, from heart-pounding dramas to laugh-out-loud comedies. Here's why I love them!",
+    "date": "2025-06-10",
+    "pinned": false,
+    "content": "I'm a huge TV buff, and these shows are my absolute favorites across different genres. Each one's got a special place in my heart:\n\n- Crime: Breaking Bad - Man, this show's a rollercoaster! Watching Walter White go from a chemistry teacher to a drug kingpin hooked me from the start. The tension, the moral dilemmas, and Jesse's arc? Pure genius.\n\n- Fantasy: Game of Thrones - Dragons, betrayals, and epic battles – what's not to love? Sure, the ending sparked debates, but those early seasons had me obsessed with Westeros and its crazy politics.\n\n- Horror: The Haunting of Hill House - This one gave me chills! It's not just scary; it's a deep dive into family trauma and grief. The way it blends spooky with emotional storytelling blew me away.\n\n- Sci-Fi: Dark - Time travel done right! This German gem is mind-bending with its complex plot and characters. I spent hours piecing together the timeline - it's like a puzzle I couldn't put down.\n\n- Sitcom: The Big Bang Theory - Sheldon's quirks and the gang's nerdy banter never fail to make me laugh. It's my go-to when I need a light, fun escape after a long coding session.\n\n- Procedural: Mindhunter - I'm fascinated by true crime, and this show's dive into serial killer psychology is gripping. The interviews with real-life-inspired criminals kept me on edge.\n\n- Mystery: Sherlock - Benedict Cumberbatch as Sherlock is iconic. The clever cases and his chemistry with Watson had me binge-watching. Those plot twists? Mind-blowing!\n\n- Space Sci-Fi: The Expanse - This is sci-fi at its best – gritty, realistic, and full of political intrigue. The Belters' struggle and the Rocinante crew stole my heart.\n\n- Drama: Anne with an E - This take on Anne of Green Gables is so heartfelt. Anne's imagination and journey through hardship hit me right in the feels. It's pure comfort viewing.\n\n- Suspense: Behind Her Eyes - Talk about a wild ride! This psychological thriller kept me guessing until the jaw-dropping finale. I still think about that twist!\n\n#TVShows #FavoriteShows #BingeWatching #Entertainment #MustWatch",
+    "image": "/tv_shows.png"
+  }
+]
