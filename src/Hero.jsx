@@ -49,7 +49,7 @@ function Hero() {
           transition={{ duration: 1, delay: 0.8 }}
         >
           <img
-            src="public\profile_img1.jpg"
+            src="/profile_img1.jpg"
             alt="Profile"
             className="w-64 h-64 md:w-80 md:h-80 rounded-full object-cover border-4 border-neon-purple shadow-neon"
             loading="lazy"

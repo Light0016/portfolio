@@ -8,7 +8,7 @@ function Projects() {
       description:
         "A news website showcasing my laravel skills for CRUD management.",
       tech: "React, Laravel, MySQL, Bootstrap",
-      thumbnail: "public/news_website.png",
+      thumbnail: "/news_website.png",
       link: "#",
     },
     {
@@ -16,7 +16,7 @@ function Projects() {
       title: "Portfolio Website",
       description: "My personal portfolio showcasing my skills and projects.",
       tech: "React, Tailwind CSS, Framer Motion",
-      thumbnail: "public/portfolio_website.png",
+      thumbnail: "/portfolio_website.png",
       link: "/",
     },
     {
@@ -25,7 +25,7 @@ function Projects() {
       description:
         "A real time chess position extraction, analysis and commentary system",
       tech: "React,Python",
-      thumbnail: "public/chess_project.jpg",
+      thumbnail: "/chess_project.jpg",
       link: "#",
     },
   ];
