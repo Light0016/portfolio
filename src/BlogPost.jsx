@@ -63,12 +63,12 @@ function BlogPost() {
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 1, ease: "easeOut" }}
       >
-        <NavLink
+        {/* <NavLink
           to="/blog"
           className="text-neon-purple hover:text-neon-purple/80 underline mb-8 inline-block text-lg font-medium"
         >
           ← Back to Blog
-        </NavLink>
+        </NavLink> */}
         <motion.div
           className="glass p-8 md:p-12 rounded-2xl relative"
           initial={{ opacity: 0, scale: 0.95 }}
