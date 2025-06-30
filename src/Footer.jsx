@@ -13,19 +13,19 @@ function Footer() {
         <p className="mb-4">© 2025 Raj Panta. All rights reserved.</p>
         <div className="flex justify-center gap-6 mb-4">
           <a
-            href="#"
+            href="https://github.com/Light0016"
             className="text-neon-purple hover:text-neon-purple/80 transition-colors"
           >
             GitHub
           </a>
           <a
-            href="#"
+            href="https://www.facebook.com/share/1BpRJeg6rn/"
             className="text-neon-purple hover:text-neon-purple/80 transition-colors"
           >
             Facebook
           </a>
           <a
-            href="#"
+            href="https://www.instagram.com/rajpanta016?igsh=cWxwZ3U4NHoxM2k3"
             className="text-neon-purple hover:text-neon-purple/80 transition-colors"
           >
             Instagram
