@@ -114,9 +114,10 @@ function BlogPost() {
               Posted on {blog.date}
             </p>
 
-            <p className="text-gray-200 text-lg whitespace-pre-line leading-relaxed">
-              {blog.content}
-            </p>
+            <div
+              className="text-gray-200 text-lg whitespace-pre-line leading-relaxed"
+              dangerouslySetInnerHTML={{ __html: blog.content }}
+            ></div>
           </motion.div>
         </motion.div>
       </motion.div>
