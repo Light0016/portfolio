@@ -28,7 +28,7 @@ function BlogList() {
         transition={{ duration: 1, ease: "easeOut" }}
       >
         <h2 className="text-4xl md:text-5xl font-bold text-white text-center mb-12 tracking-tight">
-          My Blog
+          My Blogs
         </h2>
         <div className="columns-1 sm:columns-2 lg:columns-3 gap-8">
           {sortedBlogs.map((blog) => (
